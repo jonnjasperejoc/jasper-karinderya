@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://taskapp:taskapp2019@cluster0-oopfj.mongodb.net/karenderya",
+    "jwtSecret": "sl_myJwtSecret"
+}
